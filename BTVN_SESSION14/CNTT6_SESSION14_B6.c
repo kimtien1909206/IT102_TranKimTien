@@ -1,3 +1,4 @@
+// Bài 5 session 14 
 #include <stdio.h>
 int isPrime(int n) {
     if (n < 2) {
@@ -22,3 +23,4 @@ int main() {
 
     return 0;
 }
+
